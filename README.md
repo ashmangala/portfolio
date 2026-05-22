@@ -37,10 +37,10 @@ Showcases projects, skills, and contact info in a clean, responsive layout.
     ## 📬 Contact
 
     - GitHub:
-      https://github.com/d3f4ult-cracka
+      https://github.com/d3f4ult-ctrl
     - Email:
       ashermangala30@gmail.com OR ashermangala1@outlook.com
     - Instagram:
-      @_d3f4ult._.cracka_
+      @_d3f4ult._.ctrl_
 
       
