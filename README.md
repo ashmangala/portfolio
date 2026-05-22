@@ -24,7 +24,7 @@ Showcases projects, skills, and contact info in a clean, responsive layout.
 
     1. Clone the repo:
        ```bash
-       git clone https://github.com/d3f4ult-cracka/portfolio.git
+       git clone https://github.com/d3f4ult-ctrl/portfolio.git
 
     ## 🤝 Contributing
 
