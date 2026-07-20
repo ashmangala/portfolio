@@ -41,6 +41,6 @@ Showcases projects, skills, and contact info in a clean, responsive layout.
     - Email:
       ashermangala30@gmail.com OR ashermangala1@outlook.com
     - Instagram:
-      @_d3f4ult_ctrl
+      @d3f4ult_ctrl
 
       
