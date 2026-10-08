@@ -1,4 +1,4 @@
-# Asher Mangala's Portfolio Project
+# Portfolio Project
 
 A personal portfolio website built with HTML, CSS, JavaScript and Python.
 Showcases projects, skills, and contact info in a clean, responsive layout.
@@ -24,7 +24,7 @@ Showcases projects, skills, and contact info in a clean, responsive layout.
 
     1. Clone the repo:
        ```bash
-       git clone https://github.com/d3f4ult-ctrl/portfolio.git
+       git clone https://github.com/ashmangala/portfolio.git
 
     ## 🤝 Contributing
 
@@ -33,14 +33,5 @@ Showcases projects, skills, and contact info in a clean, responsive layout.
     ## 📄 License
 
     MIT License - Feel free to useand modify.
-
-    ## 📬 Contact
-
-    - GitHub:
-      https://github.com/d3f4ult-ctrl
-    - Email:
-      ashermangala30@gmail.com OR ashermangala1@outlook.com
-    - Instagram:
-      @d3f4ult_ctrl
 
       
